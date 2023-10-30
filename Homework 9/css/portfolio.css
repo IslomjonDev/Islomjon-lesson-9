@@ -434,12 +434,13 @@ margin-top: -6vh;
 .Servicesss {
     padding-left: 85vh;
     margin-top: 6vh;
+    padding: 0;
 }
 .contact {
     padding-left: 120vh;
 }
 
-@media only   screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .topline {
         background-color: yellow;
     }
