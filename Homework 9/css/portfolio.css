@@ -440,7 +440,7 @@ margin-top: -6vh;
     padding-left: 120vh;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     .topline {
         background-color :black;
     }
